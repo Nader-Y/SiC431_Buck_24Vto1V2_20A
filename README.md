@@ -46,11 +46,9 @@
 
 # 
 
-# Following a detailed evaluation of alternate designs, the difference in efficiency values—as discussed in the feasibility assessment—was found to be insignificant for the intended application. This conclusion is documented in:00\_Design\_Calculations/Feasibility Report.doc
+# Following a detailed evaluation of alternate designs, the difference in efficiency values—as discussed in the feasibility assessment—was found to be insignificant for the intended application. This conclusion is documented in: `00\_Design\_Calculations/Feasibility Report.doc`
 
-
-
-
+# 
 
 # \## References
 
