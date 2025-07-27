@@ -1,0 +1,13 @@
+======================23.07.2025=====================
+
+1-Project Layout
+2-Spec
+
+=========================Next========================
+
+1-We will do calculations C,L and critical components
+2-SPICE Simulation.
+
+NOTE:NO SPICE MODEL EXISTS WE GO WITH POWERcAD DESIGN
+
+============================================================================================

@@ -1,0 +1,9 @@
+SiC431_Buck_24V_to_3V3/
+├── 01_Simulation              ← .SchDoc, .PcbDoc
+├── 02_Project_Files           ← LTspice or control loop sims
+├── 03_Test_Results            ← Oscilloscope screenshots
+├── 04_Measurements            ← Efficiency logs, ripple readings
+├── 05_Documentation           ← Datasheets, design notes
+├── 06_Production_Files        ← Gerbers, BOM, Pick & Place
+├── 07_Backups
+└── README.txt
