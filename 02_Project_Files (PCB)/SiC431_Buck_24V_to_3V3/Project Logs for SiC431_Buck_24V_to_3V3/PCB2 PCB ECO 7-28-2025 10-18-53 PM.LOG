@@ -1,0 +1,16 @@
+Change Net Name : Old Net Name=+12 New Net Name=VDD
+Change Net Name : Old Net Name=NetC1_1 New Net Name=Boot
+Change Net Name : Old Net Name=NetC7_1 New Net Name=VDRV
+Change Net Name : Old Net Name=NetL1_1 New Net Name=SW
+Change Net Name : Old Net Name=NetR1_1 New Net Name=IC_Phase
+Change Net Name : Old Net Name=NetR3_1 New Net Name=IC_EN
+Change Net Name : Old Net Name=NetR4_2 New Net Name=MODE3
+Change Net Name : Old Net Name=NetR6_1 New Net Name=MODE2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=PGOOD
+Change Net Color : Old Net Color=RGB(238, 14, 34) New Net Color=Default
+Added Pin To Net: NetName=IC_FB Pin=R5-2
+Added Pin To Net: NetName=IC_FB Pin=R9-2
+Added Pin To Net: NetName=IC_FB Pin=TP4-1
+Added Pin To Net: NetName=IC_FB Pin=U1-17
+Added Net: Name=IC_FB
+Added Rule: Name=Schematic Supply Nets_3
