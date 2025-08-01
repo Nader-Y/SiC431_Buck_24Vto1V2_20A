@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=GND Pin=D1-K
+Removed Pin From Net: NetName=+1V2 Pin=TP2-1
+Removed Pin From Net: NetName=SW Pin=TP3-1
+Removed Pin From Net: NetName=IC_FB Pin=TP4-1
+Added Component: Designator=D2(LED_0402_GREEN)
+Added Component: Designator=Q1(FP-527AG-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-236-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Base Voltage (VCBO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Breakdown Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Saturation Voltage"; Value = "300mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage (VCEO)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitter Base Voltage (VEBO)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "75MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain Bandwidth Product"; Value = "75MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "940µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hFE Min"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.92mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Breakdown Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Collector Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "75MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "84328379"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541210080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency"; Value = "75MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "30mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.4mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1V2 Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=VDD Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=SW Pin=TP2-1
+Added Pin To Net: NetName=IC_FB Pin=TP3-1
+Added Pin To Net: NetName=+1V2 Pin=TP4-1
+Change Net Name : Old Net Name=IC_FB New Net Name=FB
+Change Net Name : Old Net Name=IC_Phase New Net Name=NetR1_1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(238, 14, 34)
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=Q1-3
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R2-1
+Added Net: Name=NetD2_A
+Added Member To Class: ClassName=Sheet1 Member=Component D2 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 FSB560A
