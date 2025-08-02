@@ -1,13 +1,12 @@
-======================23.07.2025=====================
-
+========================23.07.2025=========================
 1-Project Layout
 2-Spec
-
-=========================Next========================
-
+========================Next(DONE)=========================
 1-We will do calculations C,L and critical components
-2-SPICE Simulation.
+2-SPICE Simulation.(x)
 
 NOTE:NO SPICE MODEL EXISTS WE GO WITH POWERcAD DESIGN
-
-============================================================================================
+==========================NEXT(DONE)=============================
+1-Select and place VIN and output capacitors
+2-documented power stage capacitor calculations.
+===========================LAYOUT================================
