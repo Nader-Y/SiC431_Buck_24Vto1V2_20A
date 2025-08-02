@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Added Member To Class: ClassName=Sheet1 Member=Component C10 10u
+Added Member To Class: ClassName=Sheet1 Member=Component C11 10u
+Added Member To Class: ClassName=Sheet1 Member=Component C12 10u
+Added Member To Class: ClassName=Sheet1 Member=Component C13 1u
+Added Member To Class: ClassName=Sheet1 Member=Component C14 1u
+Added Member To Class: ClassName=Sheet1 Member=Component C15 470u
+Added Member To Class: ClassName=Sheet1 Member=Component C16 470u
+Added Member To Class: ClassName=Sheet1 Member=Component C17 470u
+Added Member To Class: ClassName=Sheet1 Member=Component C18 470u
