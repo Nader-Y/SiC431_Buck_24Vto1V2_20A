@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=J1 Old Footprint=691137710002 New Footprint=6PCV02006
+Change Component Footprint: Designator=J2 Old Footprint=691137710002 New Footprint=6PCV02006
+Change Component Comment : Designator=J1 Old Comment=691137710002 New Comment=6PCV-02-006
+Change Component Comment : Designator=J2 Old Comment=691137710002 New Comment=6PCV-02-006
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=A718961D-D9A4-49FC-B3D9-CF18923FC27D New ItemGUID= Old RevisionGUID=7D02DB71-49F4-411D-87CF-223BD80F4EFD New RevisionGUID=
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=A718961D-D9A4-49FC-B3D9-CF18923FC27D New ItemGUID= Old RevisionGUID=7D02DB71-49F4-411D-87CF-223BD80F4EFD New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "691137710002"; UniqueID = "\MZOJOOFY" ("\MZOJOOFY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "6PCV-02-006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/6pcv-02-006/te-connectivity?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773458-2_BARRIER_STRIPS_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=3-1437652-9&DocFormat=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "15.875mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6PCV-02-006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-314376529"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/6PCV-02-006?qs=jHx%2F%2FXXMxTIXVvEGHX%252BvIA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "691137710002"; UniqueID = "\OJMVEZWH" ("\OJMVEZWH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "6PCV-02-006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/6pcv-02-006/te-connectivity?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773458-2_BARRIER_STRIPS_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=3-1437652-9&DocFormat=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "15.875mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6PCV-02-006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-314376529"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/6PCV-02-006?qs=jHx%2F%2FXXMxTIXVvEGHX%252BvIA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC3116X65X40LL10T20"; UniqueID = "\KXWNLWAQ" ("\KXWNLWAQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RC1206JR-07510RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206JR-07510RL"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component C3 10u
