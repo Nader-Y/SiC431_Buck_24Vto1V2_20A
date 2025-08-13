@@ -1,0 +1,5 @@
+Added Component: Designator=TP5(PAD_RND_1MM)
+Added Pin To Net: NetName=GND Pin=TP5-1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=IC_Phase
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Added Member To Class: ClassName=Sheet1 Member=Component TP5 TP_NOBOM
